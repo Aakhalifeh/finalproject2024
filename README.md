@@ -1,1 +1,6 @@
-# finalproject2024
+# CSP FINAL PROJECT
+### Milestones: I was alone, by myself, I finished my code on December 19th, 2023. I was responsible for each task, as I was alone.
+### [This is a link to my program working](https://drive.google.com/file/d/1k9HmqCPEDDjW09iqw_uajZz3wW3RcX-V/view)
+### So, like, you know that guessing numbers game? Well, it's basically there for a good time and to spice things up a bit. Like, who doesn't love a little mystery, right? It's not some serious business – just a chill way to have fun and maybe flex those brain muscles a bit. So, who's it for? Honestly, it's for anyone who's down for a bit of a brain teaser. Whether you're killing time, hanging with friends, or just in the mood for a low-key challenge, this game's got your back. No fancy rules or high stakes – just a cool way to add some excitement to your day.
+### This program is a simple guessing game. It welcomes the player and randomly selects a number between 1 and 100. The player is then prompted to guess the number, and the program provides feedback if the guess is too high or too low. The game continues until the player correctly guesses the secret number, and the program congratulates the player while displaying the number of attempts it took. If the player enters something that's not a number, it asks for a valid input.
+### So, the game-changer here is the random.randint() trick. No more handpicking numbers – it randomly sets a secret number, bringing in that surprise element.
